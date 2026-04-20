@@ -53,7 +53,7 @@ The notebook walks through each stage step-by-step, making it easy to understand
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/KrishnasaiBitra/Temperature-prediction-using-pollutants-main/tree/main
 cd Temperature-prediction-using-pollutants
 ```
 
